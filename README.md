@@ -28,7 +28,7 @@ Hey there! I'm Ro0tReaper, a passionate cybersecurity student and penetration te
 ### 📫 Let's Connect
 
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mohamed-yousry-elsayed-mahmoud/)
-* **Twitter:** [Twitter](https://x.com/0xm03180050?s=21))
+* **Twitter:** [Twitter](https://x.com/0xm03180050?s=21)
 * **Email:** [cfmohammed24@gmail.com](mailto:cfmohammed24@gmail.com)
 
 ### 🧠 Fun Facts
