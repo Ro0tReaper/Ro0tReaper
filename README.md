@@ -44,6 +44,6 @@ I'm a League of Legends player, and I main **Zed**! 🗡️
 
 * [LinkedIn](https://www.linkedin.com/in/mohamed-yousry-elsayed-mahmoud/)
 * [Twitter](https://x.com/0xm03180050?s=21)
-* [[Blog](https://medium.com/@cfmohammed24)
+* [Blog](https://medium.com/@cfmohammed24)
 
 Feel free to check out my projects and repos. I'm always open to collaboration and new ideas. Let's hack the world! 😈
