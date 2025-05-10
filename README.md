@@ -1,43 +1,49 @@
-# 👾 Ro0tReaper – Pentester | Red Teamer | Cybersecurity Enthusiast
+# 👾 Ro0tReaper
 
-Hey there! I'm Ro0tReaper, a passionate cybersecurity student and penetration tester with a keen interest in red teaming, ethical hacking, and full-stack development. I love breaking into systems (legally!) and building secure code to keep the digital world a bit safer.
+**Hey there!** 👋 Welcome to my GitHub profile!
 
-### 🥷 About Me
+## 💻 About Me
 
-* **Student at Cairo University** majoring in Cybersecurity (3rd year, GPA: 2.9)
-* Completed **CRTP, OSWA, OSCP, eWPTXv2, and eJPT** certifications
-* Member of **IEEE Cairo University** and the **DEPI Program**
-* Experienced in Active Directory, web, and network penetration testing
-* Skilled in C++, Python, JavaScript, and Swift
-* Developer of tools like a Caesar/Affine cipher tool, Python network scanner, self-injecting malware, and database manager
+I'm a passionate penetration tester and cybersecurity enthusiast from Cairo University, where I'm currently majoring in cybersecurity. As a third-year student with a GPA of 2.9, I've developed a deep interest in red teaming, web application security, and reverse engineering. I'm always up for a challenge, whether it's a CTF or a real-world penetration test!
 
-### 🔧 Skills
+### 🛠️ Skills & Expertise
 
-* **Penetration Testing** – Web, Network, Mobile, cryptography and Active Directory attacks
-* **Programming** – C++, Python, JavaScript, C, PHP, Java and Swift
-* **Reverse Engineering** – Analyzing binaries and reversing malware
-* **Tooling** – Nmap, Burp Suite, Metasploit, Wireshark, Ghidra, Immunity Debugger, BloodHound, PowerSploit, Custom exploits
-* **Web Exploitation** – SQLi, XSS, CSRF, SSRF, File Upload, Command Injection, and more
+* **Penetration Testing:** Web, Network, Active Directory, Internal & External assessments.
+* **Programming Languages:** C++, Python, JavaScript, Swift (learning).
+* **Reverse Engineering:** Malware analysis and binary exploitation.
+* **Toolset:** Nmap, Burp Suite, Metasploit, Wireshark, Ghidra, Bloodhound, PowerSploit.
+* **Development:** Custom exploits and hacking tools, low-level system programming.
+* **Problem-Solving:** Algorithm challenges and efficient coding solutions.
 
-### 🚀 Current Focus
+## 🚩 Certifications
 
-* Diving deeper into **bug hunting** and advanced web application security
-* Mastering Active Directory and network exploitation
-* Working on personal projects to improve my coding and hacking skills
+* **Certified Red Team Professional (CRTP)**
+* **OffSec Web Assessor (OSWA)**
+* **Certified Red Team Analyst (CRTA)**
+* **eWPTXv2**
+* **eJPT**
+* **OSCP**
 
-### 📫 Let's Connect
+## 🌱 Currently Exploring
 
-* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mohamed-yousry-elsayed-mahmoud/)
-* **Twitter:** [Twitter](https://x.com/0xm03180050?s=21)
-* **Email:** [cfmohammed24@gmail.com](mailto:cfmohammed24@gmail.com)
+* Bug Bounty Hunting and Web hacking
+* Active directory, Network hacking, and Red Team methodologies
+* Mobile hacking (Android and IOS)
 
-### 🧠 Fun Facts
+## 💼 Professional Experience
 
-* Zed main in League of Legends 🥷
-* Known for breaking down complex problems and finding creative solutions
-* Hacker rank in Hackthebox
+* Lead of the cybersecurity team at Nova-Dev company
+* Intern at the penetration testing program for DEPI
+* CTF enthusiast and problem solver on Hack The Box and TryHackMe
 
-Thanks for stopping by my GitHub! Drop a star ⭐ if you find my projects interesting or if you're a fellow hacker. Stay curious, stay sharp, and keep hacking!
+## 🌟 Fun Fact
 
-Cheers,
-Ro0tReaper
+I'm a League of Legends player, and I main **Zed**! 🗡️
+
+## 📫 Let's Connect!
+
+* [LinkedIn](https://www.linkedin.com/in/mohamed-yousry-elsayed-mahmoud/)
+* [Twitter](https://x.com/0xm03180050?s=21)
+* [[Blog](https://medium.com/@cfmohammed24)
+
+Feel free to check out my projects and repos. I'm always open to collaboration and new ideas. Let's hack the world! 😈
